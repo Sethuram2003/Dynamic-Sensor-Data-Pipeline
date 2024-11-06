@@ -10,7 +10,7 @@ A real-time data pipeline built using Apache Kafka for processing and monitoring
 
 ## 📊 Dashboard Preview
 
-![Grafana Dashboard](path_to_your_dashboard_image.png)
+![Grafana Dashboard](Screenshot from 2024-11-06 17-01-29.png)
 *Real-time monitoring of generator metrics including voltage, current, temperature, fuel level, and RPM*
 
 ## 🏗️ System Architecture
