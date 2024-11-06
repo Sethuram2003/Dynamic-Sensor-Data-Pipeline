@@ -131,20 +131,6 @@ The Grafana dashboard provides real-time visualization of:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- Apache Kafka documentation
-- Grafana community
-- MySQL documentation
-- Python Kafka client developers
-
-## 📞 Support
-
-For support:
-- Open an issue in the GitHub repository
-- Contact the maintainers
-- Check the documentation
-
 ---
 
 Made with ❤️ by [Your Name](https://github.com/yourusername)
