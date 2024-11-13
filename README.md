@@ -6,7 +6,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=flat&logo=grafana&logoColor=orange&labelColor=F2F4F9)](https://grafana.com/)
 
-A real-time data pipeline built using Apache Kafka for processing and monitoring sensor data from diesel generators. The system collects sensor readings through a Kafka producer, processes them via a Kafka consumer, stores them in MySQL, and visualizes the data using Grafana dashboards.
+A real-time data pipeline built using Apache Kafka for processing and monitoring sensor data from sensors. The system collects sensor readings through a Kafka producer, processes them via a Kafka consumer, stores them in MySQL, and visualizes the data using Grafana dashboards.
 
 ## 📊 Dashboard Preview
 
